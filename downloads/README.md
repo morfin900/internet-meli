@@ -1,6 +1,6 @@
 # Downloaded list :
 
-- [mp4_sd](./mp4_sd)
+- [video_360p](./video_360p)
 
 ---
 
