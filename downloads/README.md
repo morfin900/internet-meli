@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [video_360p](./video_360p)
+- [video_360p_nova](./video_360p_nova)
 
 ---
 
