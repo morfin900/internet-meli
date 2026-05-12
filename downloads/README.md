@@ -4,6 +4,7 @@
 - [video_360p_beta](./video_360p_beta)
 - [video_360p_delta](./video_360p_delta)
 - [video_360p_kappa](./video_360p_kappa)
+- [video_360p_lambda](./video_360p_lambda)
 - [video_360p_nova](./video_360p_nova)
 
 ---
