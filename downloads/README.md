@@ -2,6 +2,7 @@
 
 - [video_360p](./video_360p)
 - [video_360p_beta](./video_360p_beta)
+- [video_360p_kappa](./video_360p_kappa)
 - [video_360p_nova](./video_360p_nova)
 
 ---
